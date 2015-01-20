@@ -132,7 +132,7 @@ public class Main {
 				}
 			}
 			else if (menu.equals("0")) {
-				// 메인메뉴로
+				// 메인메뉴로 이동
 				break;
 			}
 			else {
